@@ -1,7 +1,7 @@
 //package main
 
 import (
-	"testing"
+//	"testing"
 )
 
 func TestValidateLength(t *testing.T) {
